@@ -1,4 +1,4 @@
-//Single linked list creation and traversal
+//Singly linked list creation and traversal
 
 package LinkedList_chap;
 import java.util.Scanner;
@@ -50,3 +50,4 @@ class Sll {
     }
     
 }
+
